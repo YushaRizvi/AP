@@ -1,2 +1,6 @@
 hello this just random
+<<<<<<< HEAD
 and this is for testing 
+=======
+i just made this for a class project
+>>>>>>> 6cb7375365d22ee5047da6ab9527da2a683088c6
